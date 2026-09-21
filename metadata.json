@@ -1,0 +1,6 @@
+{
+  "name": "Hindustan Institute of Technology and Science - Library",
+  "description": "Dr. K.C.G. Verghese Research & Resource Centre (Central Library) - Online Book Reservation and Time-Limited Borrowing System with 8-digit Book IDs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
